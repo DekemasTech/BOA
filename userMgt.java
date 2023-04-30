@@ -4,3 +4,5 @@ Legah
 Ayo
 Obi
 Dominion
+Amaka
+Stella
